@@ -1,0 +1,29 @@
+#+TITLE: Text turns
+#+AUTHOR: these here
+#+OPTIONS: H:2 toc:t num:t
+#+LATEX_CLASS: beamer
+#+LATEX_CLASS_OPTIONS: [presentation]
+#+BEAMER_THEME: Madrid
+#+COLUMNS: %45ITEM %10BEAMER_ENV(Env) %10BEAMER_ACT(Act) %4BEAMER_COL(Col) %8BEAMER_OPT(Opt)
+* Section one
+** With many thanks
+*** Thanks to the org-modersa 					    :B_block:
+   :PROPERTIES:
+   :BEAMER_COL: 0.48
+   :BEAMER_ENV: block
+   :END:
+   for dropping these tools upon us
+** And straight to this here 					    :B_block:
+  :PROPERTIES:
+  :BEAMER_COL: 0.48
+  :BEAMER_ACT: <2->
+  :BEAMER_ENV: block
+  :END:
+  facilitations with toos for texts
+*** And on the final high note 					     :B_note:
+  :PROPERTIES:
+  :BEAMER_env: note
+  :END:
+** Getting things framed and seconds
+*** Request
+              Don't take no notice for no answer, if you please.!
